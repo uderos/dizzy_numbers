@@ -2,15 +2,6 @@
 #include "dizzyGenerator.h"
 
 
-dizzyGenerator::dizzyGenerator()
-{
-}
-
-
-dizzyGenerator::~dizzyGenerator()
-{
-}
-
 std::vector<int> dizzyGenerator::find_dizzy_up_to(int last, const int base /* = 10*/)
 {
 	std::vector<int> dizzy_list;

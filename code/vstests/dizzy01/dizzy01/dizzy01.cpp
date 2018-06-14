@@ -98,6 +98,7 @@ static void f_test04()
 
 	f_test_find_dizzy_up_to(10, 10);
 	f_test_find_dizzy_up_to(100, 10);
+	// f_test_find_dizzy_up_to(1000000, 10);
 }
 
 int _tmain(int argc, _TCHAR* argv[])
